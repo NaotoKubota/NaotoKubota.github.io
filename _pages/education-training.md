@@ -12,17 +12,16 @@ classes: narrow
 Postdoctoral Scholar<br>
 Advisor: Sika Zheng
 
-## Kyushu University
-7.2020-3.2022<br>
-Research Associate<br>
-Advisor: Mikita Suyama
-
 ## Barcelona Supercomputing Center
 4.2019-9.2019<br>
 Guest Researcher<br>
 Advisor: David Torrents
 
 ## Kyushu University
+7.2020-3.2022<br>
+Research Associate<br>
+Advisor: Mikita Suyama
+
 4.2017-7.2020<br>
 Ph.D. in Science<br>
 Advisor: Mikita Suyama
@@ -32,7 +31,6 @@ Advisor: Mikita Suyama
 M.S. in Agriculture<br>
 Advisor: Nobuhiko Hoshi
 
-## Kobe University
 4.2011-3.2015<br>
 B.S. in Agriculture<br>
 Advisor: Nobuhiko Hoshi
