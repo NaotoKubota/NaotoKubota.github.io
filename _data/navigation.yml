@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Education/Training"
-    url: /education-training/
+  - title: "CV"
+    url: /cv/
   - title: "Research"
     url: /research/
   - title: "Publications"

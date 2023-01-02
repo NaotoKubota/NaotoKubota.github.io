@@ -1,11 +1,13 @@
 ---
-title: "Education/Training"
+title: "CV"
 layout: single
 author_profile: True
 read_time: False
-permalink: /education-training/
+permalink: /cv/
 classes: narrow
 ---
+
+# Training
 
 ## University of California, Riverside
 5.2022-Present<br>
@@ -22,6 +24,9 @@ Advisor: David Torrents
 Research Associate<br>
 Advisor: Mikita Suyama
 
+# Education
+
+## Kyushu University
 4.2017-7.2020<br>
 Ph.D. in Science<br>
 Advisor: Mikita Suyama
