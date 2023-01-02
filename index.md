@@ -2,6 +2,7 @@
 title: "Hi, I'm Naoto Kubota"
 layout: home
 author_profile: true
+classes: wide
 ---
 
 I'm a computational biologist working as a postdoc at [Dr. Sika Zheng Lab](https://zhenglab.ucr.edu/index.htm), University of California, Riverside.

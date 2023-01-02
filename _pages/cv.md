@@ -11,7 +11,6 @@ classes: narrow
 
 Training
 ===
-
 * University of California, Riverside
 	* 5.2022-Present
 	* Postdoctoral Scholar
