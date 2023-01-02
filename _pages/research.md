@@ -7,4 +7,4 @@ permalink: /research/
 classes: narrow
 ---
 
-My research
+Coming soon..
