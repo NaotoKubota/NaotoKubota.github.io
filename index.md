@@ -11,7 +11,7 @@ I am a computational biologist working as a postdoc at [Dr. Sika Zheng Lab](http
 
 ## Research keywords
 
-- Computational genomics & transciptomics
+- Computational genomics & transcriptomics
 - RNA splicing
 - Nonsense-mediated decay
 - Neural development & disease in mammals
