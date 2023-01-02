@@ -28,7 +28,7 @@ Toshifumi Yokoyama, Takuya Omotehara, Tetsushi Hirano, **Naoto Kubota**, Shogo Y
 _**J. Vet. Med. Sci.**_ 80, 1534–1539, 2018.
 
 1. [Identification of a candidate enhancer for DMRT3 involved in spastic cerebral palsy pathogenesis](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpubmed%2F29305858&t=N2EwMDZlOTA1ZjUyNDA3ZTE1NTVlOTRkMTQ5ODA1OTYwYmM2NDYxYixUbU4zdWpESg%3D%3D&p=&m=0)<br>
-**Naoto Kubota**, Toshifumi Yokoyama, Nobuhiko Hoshi, Mikita Suyama
+**Naoto Kubota**, Toshifumi Yokoyama, Nobuhiko Hoshi, Mikita Suyama<br>
 _**Biochem. Biophys. Res. Commun.**_ 496, 133–139, 2018.<br>
 
 1. [NOAEL-dose of a neonicotinoid pesticide, clothianidin, acutely induce anxiety-related behavior with human-audible vocalizations in male mice in a novel environment](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpubmed%2F29030271&t=ZmM3YzA3MTk0NGE5NDUxNmUzMDk5MjBlODYyNTlmNzlkYTY3YTAxYixUbU4zdWpESg%3D%3D&p=&m=0)<br>
