@@ -7,35 +7,41 @@ permalink: /cv/
 classes: narrow
 ---
 
-# Training
+[Here is my full CV.](https://docs.google.com/document/d/1QIyU3xO2-89tHPWl4V3ZWFRk81-_bLY2HWN_9V-Zgrw/edit?usp=sharing)
 
-## University of California, Riverside
-5.2022-Present<br>
-Postdoctoral Scholar<br>
-Advisor: Sika Zheng
+Training
+===
 
-## Barcelona Supercomputing Center
-4.2019-9.2019<br>
-Guest Researcher<br>
-Advisor: David Torrents
+* University of California, Riverside
+	* 5.2022-Present
+	* Postdoctoral Scholar
+	* Advisor: Sika Zheng
 
-## Kyushu University
-7.2020-3.2022<br>
-Research Associate<br>
-Advisor: Mikita Suyama
+* Barcelona Supercomputing Center
+	* 4.2019-9.2019
+	* Guest Researcher
+	* Advisor: David Torrents
 
-# Education
+* Kyushu University
+	* 7.2020-3.2022
+	* Research Associate
+	* Advisor: Mikita Suyama
 
-## Kyushu University
-4.2017-7.2020<br>
-Ph.D. in Science<br>
-Advisor: Mikita Suyama
 
-## Kobe University
-4.2015-3.2017<br>
-M.S. in Agriculture<br>
-Advisor: Nobuhiko Hoshi
 
-4.2011-3.2015<br>
-B.S. in Agriculture<br>
-Advisor: Nobuhiko Hoshi
+Education
+===
+* Kyushu University
+	* 4.2017-7.2020
+	* Ph.D. in Science
+	* Advisor: Mikita Suyama
+
+* Kobe University
+	* 4.2015-3.2017
+	* M.S. in Agriculture
+	* Advisor: Nobuhiko Hoshi
+
+* Kobe University
+	* 4.2011-3.2015
+	* B.S. in Agriculture
+	* Advisor: Nobuhiko Hoshi
