@@ -1,9 +1,9 @@
 ---
-title: "Publication"
+title: "Publications"
 layout: single
 author_profile: True
 read_time: False
-permalink: /publication/
+permalink: /publications/
 classes: narrow
 ---
 
