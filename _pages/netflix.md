@@ -1,5 +1,5 @@
 ---
-title: "Netflix series I have watched"
+title: "My favorite Netflix series"
 layout: single
 author_profile: True
 read_time: False

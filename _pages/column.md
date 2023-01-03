@@ -10,5 +10,5 @@ classes: narrow
 * [Stories of my research papers](paper-story)<br>
 これまで出版した論文についてのあれこれ。
 
-* [Netflix series I have watched](netflix)<br>
+* [My favorite Netflix series](netflix)<br>
 Netflixで観たシリーズたち。
