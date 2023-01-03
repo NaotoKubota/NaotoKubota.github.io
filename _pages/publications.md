@@ -43,7 +43,7 @@ _**J. Vet. Med. Sci.**_ 80, 1534–1539, 2018.
 **Naoto Kubota**, Toshifumi Yokoyama, Nobuhiko Hoshi, Mikita Suyama<br>
 _**Biochem. Biophys. Res. Commun.**_ 496, 133–139, 2018.<br>
 
-	* We identified **a candidate enhancer of _DMRT3_ gene**, which works as a locomotion coordinator in horses and mice, in a genomic deletion of **spactic cerebral palsy** patients.
+	* We identified **a candidate enhancer of _DMRT3_ gene**, which works as a locomotion coordinator in horses and mice, in a genomic deletion of **spastic cerebral palsy** patients.
 
 	<p></p>
 
