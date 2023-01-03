@@ -7,7 +7,7 @@ permalink: /cv/
 classes: narrow
 ---
 
-[Here is my full CV.](https://docs.google.com/document/d/1QIyU3xO2-89tHPWl4V3ZWFRk81-_bLY2HWN_9V-Zgrw/edit?usp=sharing)
+[Here is my full CV.](https://drive.google.com/file/d/1pbPcLWUZR21FRXuJK3W9tI8TyX7vHvvb/view?usp=share_link)
 
 Training
 ===
