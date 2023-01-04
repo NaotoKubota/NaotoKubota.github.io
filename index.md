@@ -16,7 +16,7 @@ I'm a computational biologist working as a postdoc at [Dr. Sika Zheng Lab](https
 - Nonsense-mediated decay
 - Neural development & disease in mammals
 - QTL mapping
-- Software development (Bash, Python, R)
+- Software development (Bash, Python, R, Docker, Git)
 
 ## My latest publication
 
