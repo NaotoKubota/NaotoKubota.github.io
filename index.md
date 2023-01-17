@@ -20,8 +20,8 @@ I'm a computational biologist working as a postdoc at [Dr. Sika Zheng Lab](https
 
 ## My latest publication
 
-[Mapping of promoter usage QTL using RNA-seq data reveals their contributions to complex traits](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010436)<br>
-**Naoto Kubota**, Mikita Suyama<br>
+[Mapping of promoter usage QTL using RNA-seq data reveals their contributions to complex traits](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010436)</br>
+**Naoto Kubota**, Mikita Suyama</br>
 _**PLoS Comput. Biol.**_ 18(8): e1010436. 2022.
 
 ## Favorite bands and singers
