@@ -48,7 +48,7 @@ classes: narrow
 
 ## その他
 
-- Neve Have I Ever
+- Never Have I Ever
 - 浅草キッド
 - RUPIN
 - このサイテーな世界の終わり
