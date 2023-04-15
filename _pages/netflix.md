@@ -38,21 +38,15 @@ classes: narrow
 
 ---
 
-## ウ・ヨンウ弁護士は天才肌
-
-<iframe src="https://www.youtube.com/embed/f6X66CW9XGc" width="560" height="315" frameborder="0"> </iframe>
-
-- ストーリーは派手じゃないけどずっとにこにこしながら観てられる
-
----
-
 ## その他
 
+- ヒヤマケンタロウの妊娠
 - Never Have I Ever
 - 浅草キッド
 - RUPIN
 - このサイテーな世界の終わり
 - エノーラ・ホームズの事件簿
+- ウ・ヨンウ弁護士は天才肌
 - その年、私たちは
 - ブリジャートン家
 - サイコだけど大丈夫
