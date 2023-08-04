@@ -19,27 +19,13 @@ classes: narrow
 
 ---
 
-## Emily in Paris
-
-<iframe src="https://www.youtube.com/embed/Xl3HY9yMEBI" width="560" height="315" frameborder="0"> </iframe>
-
-- フランスあるあるずっと言うてる感じ
-- エミリーに試練が次々やってくるが、元を辿ればエミリーが大体悪い
-- 共感はできないけどファッションがかわいいのでグー
-
----
-
-## Stranger Things
-
-<iframe src="https://www.youtube.com/embed/yQEondeGvKo" width="560" height="315" frameborder="0"> </iframe>
-
-- シーズン2と3のちびっこわちゃわちゃ感が好き
-- マドンナやクラッシュなど当時の音楽がむちゃよい
-
----
-
 ## その他
 
+- キング・ザ・ランド
+- UNKNOWN
+- Celebrity
+- 離婚しようよ
+- 脱出おひとり島
 - ヒヤマケンタロウの妊娠
 - Never Have I Ever
 - 浅草キッド
@@ -69,3 +55,4 @@ classes: narrow
 - 美味の起源
 - ストリートグルメを求めて
 - 還魂
+- グッド・プレイス
