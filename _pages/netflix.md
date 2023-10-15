@@ -21,6 +21,8 @@ classes: narrow
 
 ## その他
 
+- Who is Erin Carter?
+- サンクチュアリ
 - キング・ザ・ランド
 - UNKNOWN
 - Celebrity
@@ -48,6 +50,7 @@ classes: narrow
 
 ## 部分的に観たもの
 
+- ローマ帝国
 - サブリナ
 - 海街チャチャチャ
 - シスターズ
