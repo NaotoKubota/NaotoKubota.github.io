@@ -10,7 +10,7 @@ classes: narrow
 1. ??? (in prep)<br>
    **Naoto Kubota**, *et al*.<br>
 
-1. ??? (under revision)<br>
+1. ??? (accepted)<br>
    ..., **Naoto Kubota**, *et al*.<br>
 
 1. [Diurnal changes in bacterial settlement on the Peyer’s patch and surrounding mucosa in the rat ileum and its effect against the intestinal immune system](https://link.springer.com/article/10.1007/s00441-023-03772-8)<br>
