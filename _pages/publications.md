@@ -10,12 +10,13 @@ classes: narrow
 1. ??? (in prep)<br>
    **Naoto Kubota**, *et al*.<br>
 
-1. ??? (accepted)<br>
-   ..., **Naoto Kubota**, *et al*.<br>
+2. [Epistatic interactions between NMD and TRP53 control progenitor cell maintenance and brain size](https://www.sciencedirect.com/science/article/pii/S0896627324002447)<br>
+Lin Lin, Jingrong Zhao, **Naoto Kubota**, Zhelin Li, Yi-Li Lam, Lauren P. Nguyen, Lu Yang, Sheela P. Pokharel, Steven M. Blue, Brian A. Yee, Renee Chen, Gene W. Yeo, Chun-Wei Chen, Liang Chen, Sika Zheng<br>
+_**Neuron**_ 2024. https://doi.org/10.1016/j.neuron.2024.04.006
 
 1. [Diurnal changes in bacterial settlement on the Peyer’s patch and surrounding mucosa in the rat ileum and its effect against the intestinal immune system](https://link.springer.com/article/10.1007/s00441-023-03772-8)<br>
 Youhei Mantani, Nanami Sakata, **Naoto Kubota**, Asaka Shimada, Satoki Nakanishi, Toshifumi Yokoyama, Nobuhiko Hoshi<br>
-_**Cell Tissue Res**_ 2023. https://doi.org/10.1007/s00441-023-03772-8
+_**Cell Tissue Res**_ 393, 83–95, 2023.
 
 1. [Mapping of promoter usage QTL using RNA-seq data reveals their contributions to complex traits](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010436)<br>
 **Naoto Kubota**, Mikita Suyama<br>
