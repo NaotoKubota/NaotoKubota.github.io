@@ -7,7 +7,7 @@ permalink: /publications/
 classes: narrow
 ---
 
-1. ??? (in prep)<br>
+1. ??? (submitted)<br>
    **Naoto Kubota**, *et al*.<br>
 
 2. [Epistatic interactions between NMD and TRP53 control progenitor cell maintenance and brain size](https://www.sciencedirect.com/science/article/pii/S0896627324002447)<br>
