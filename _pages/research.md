@@ -11,9 +11,15 @@ classes: narrow
 
 Coming soon...
 
-## Software development for robust detection of differential RNA splicing
+## Software development for robust identification of differential RNA splicing
 
-Coming soon...
+Alternative pre-mRNA splicing (AS) is a fundamental regulatory process that generates transcript diversity and cell type variation. Several computational tools have been developed to analyze AS from RNA-seq data, but they are often limited by the high false-positive rate and low reproducibility. I have developed a unified computational method, called [***Shiba***](https://github.com/NaotoKubota/Shiba), that enables robust identification of differential RNA splicing across platforms, bulk and single-cell RNA-seq data.
+
+![Fig_Kubota2024_1](/assets/images/Fig_Kubota2024_1.png){: width="50%"}
+
+![Fig_Kubota2024_2](/assets/images/Fig_Kubota2024_2.png)
+<span style="font-size: 80%; color: grey;">Kubota *et al*, submitted</span>
+
 
 ## Mapping of functional genomic variants in human disease risk
 
@@ -25,17 +31,14 @@ I developed a computational method that enables mapping of genomic variants asso
 
 ![Fig_Kubota2022_1](/assets/images/Fig_Kubota2022_1.png)
 ![Fig_Kubota2022_2](/assets/images/Fig_Kubota2022_2.png)
-
 <span style="font-size: 80%; color: grey;">Kubota and Suyama, _**PLoS Comput. Biol**_. 18(8): e1010436. 2022.</span>
 
 ### Functional variants in TF footprints and immune disease risk
 
 ![Fig_Kubota2021](/assets/images/Fig_Kubota2021.png)
-
 <span style="font-size: 80%; color: grey;">Kubota and Suyama, _**bioRxiv**_ 2021.03.22.436360</span>
 
 ### A genome-wide survey of functional variants associated with psoriasis risk
 
 ![Fig_Kubota2020](/assets/images/Fig_Kubota2020.png)
-
 <span style="font-size: 80%; color: grey;">Kubota and Suyama, _**BMC Med. Genomics**_ 13, 8, 2020.</span>
