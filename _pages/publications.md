@@ -4,7 +4,7 @@ layout: single
 author_profile: True
 read_time: False
 permalink: /publications/
-classes: narrow
+classes: wide
 ---
 
 1. [Shiba: A unified computational method for robust identification of differential RNA splicing across platforms](https://www.biorxiv.org/content/10.1101/2024.05.30.596331v1)<br>

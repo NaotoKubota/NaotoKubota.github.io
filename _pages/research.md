@@ -4,7 +4,7 @@ layout: single
 author_profile: True
 read_time: False
 permalink: /research/
-classes: narrow
+classes: wide
 ---
 
 ## RNA splicing in mammalian brain development and disease
@@ -18,7 +18,7 @@ Alternative pre-mRNA splicing (AS) is a fundamental regulatory process that gene
 ![Fig_Kubota2024_1](/assets/images/Fig_Kubota2024_1.png){: width="50%"}
 
 ![Fig_Kubota2024_2](/assets/images/Fig_Kubota2024_2.png)
-<span style="font-size: 80%; color: grey;">Kubota *et al*, submitted</span>
+<span style="font-size: 80%; color: grey;">Kubota *et al*, ***bioRxiv*** 2024.05.30.596331</span>
 
 
 ## Mapping of functional genomic variants in human disease risk
