@@ -20,9 +20,9 @@ I'm a computational biologist working as a postdoc at [Dr. Sika Zheng Lab](https
 
 ## My latest publication
 
-[Mapping of promoter usage QTL using RNA-seq data reveals their contributions to complex traits](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010436)<br>
-**Naoto Kubota**, Mikita Suyama<br>
-_**PLoS Comput. Biol.**_ 18(8): e1010436. 2022.
+[Shiba: A unified computational method for robust identification of differential RNA splicing across platforms](https://www.biorxiv.org/content/10.1101/2024.05.30.596331v1)<br>
+**Naoto Kubota**, Liang Chen, Sika Zheng.<br>
+_**bioRxiv**_ 2024.05.30.596331; doi: https://doi.org/10.1101/2024.05.30.596331
 
 ## Favorite bands and singers
 

@@ -7,10 +7,15 @@ permalink: /publications/
 classes: narrow
 ---
 
-1. ??? (submitted)<br>
-   **Naoto Kubota**, *et al*.<br>
+1. [Shiba: A unified computational method for robust identification of differential RNA splicing across platforms](https://www.biorxiv.org/content/10.1101/2024.05.30.596331v1)<br>
+**Naoto Kubota**, Liang Chen, Sika Zheng.<br>
+_**bioRxiv**_ 2024.05.30.596331; doi: https://doi.org/10.1101/2024.05.30.596331
 
-2. [Epistatic interactions between NMD and TRP53 control progenitor cell maintenance and brain size](https://www.sciencedirect.com/science/article/pii/S0896627324002447)<br>
+	* We developed a new computational method, **Shiba**, for identifying differential RNA splicing events across multiple platforms, such as bulk and single-cell RNA-seq.
+
+	<p></p>
+
+1. [Epistatic interactions between NMD and TRP53 control progenitor cell maintenance and brain size](https://www.sciencedirect.com/science/article/pii/S0896627324002447)<br>
 Lin Lin, Jingrong Zhao, **Naoto Kubota**, Zhelin Li, Yi-Li Lam, Lauren P. Nguyen, Lu Yang, Sheela P. Pokharel, Steven M. Blue, Brian A. Yee, Renee Chen, Gene W. Yeo, Chun-Wei Chen, Liang Chen, Sika Zheng<br>
 _**Neuron**_ 2024. https://doi.org/10.1016/j.neuron.2024.04.006
 
