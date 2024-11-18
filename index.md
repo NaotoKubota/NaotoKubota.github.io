@@ -19,7 +19,7 @@ classes: wide
 - Nonsense-mediated mRNA decay
 - Neural development & disease in mammals
 - QTL mapping
-- Software development (Bash, Python, R, Docker, Git, Snakemake, Image J Macro)
+- Software development (Bash, Python, R, Rust, Docker, Git, Snakemake, Image J Macro)
 
 ## My latest publication
 
