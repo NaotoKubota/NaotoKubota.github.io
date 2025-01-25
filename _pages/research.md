@@ -11,11 +11,11 @@ classes: wide
 
 Coming soon...
 
-## Software development for robust identification of differential RNA splicing
+## Software development for systematic identification of differential RNA splicing
 
-Alternative pre-mRNA splicing (AS) is a fundamental regulatory process that generates transcript diversity and cell type variation. Several computational tools have been developed to analyze AS from RNA-seq data, but they are often limited by the high false-positive rate and low reproducibility. I have developed a unified computational method, called [***Shiba***](https://github.com/NaotoKubota/Shiba), that enables robust identification of differential RNA splicing across platforms, bulk and single-cell RNA-seq data.
+Alternative pre-mRNA splicing (AS) is a fundamental regulatory process that generates transcript diversity and cell type variation. Several computational tools have been developed to analyze AS from RNA-seq data, but they are often limited by the high false-positive rate and low reproducibility. I have developed a versatile computational method, called [***Shiba***](https://github.com/Sika-Zheng-Lab/Shiba), that enables systematic identification of differential RNA splicing across platforms, bulk and single-cell RNA-seq data.
 
-![Fig_Kubota2024_1](/assets/images/Fig_Kubota2024_1.png){: width="50%"}
+![Fig_Kubota2025_1](/assets/images/Fig_Kubota2025_1.png){: width="100%"}
 
 ![Fig_Kubota2024_2](/assets/images/Fig_Kubota2024_2.png)
 <span style="font-size: 80%; color: grey;">Kubota *et al*, ***bioRxiv*** 2024.05.30.596331</span>
