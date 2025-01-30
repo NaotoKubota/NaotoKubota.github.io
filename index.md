@@ -17,7 +17,7 @@ classes: wide
 - Computational genomics & transcriptomics
 - RNA splicing
 - Nonsense-mediated mRNA decay
-- Neural development & disease in mammals
+- Neuronal development & disease in mammals
 - QTL mapping
 - Software development (Bash, Python, R, Rust, Docker, Git, Snakemake, Image J Macro)
 
