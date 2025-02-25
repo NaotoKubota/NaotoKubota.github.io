@@ -18,8 +18,7 @@ Alternative pre-mRNA splicing (AS) is a fundamental regulatory process that gene
 ![Fig_Kubota2025_1](/assets/images/Fig_Kubota2025_1.png){: width="100%"}
 
 ![Fig_Kubota2024_2](/assets/images/Fig_Kubota2024_2.png)
-<span style="font-size: 80%; color: grey;">Kubota *et al*, ***bioRxiv*** 2024.05.30.596331</span>
-
+<span style="font-size: 80%; color: grey;">Kubota *et al*, ***Nucleic Acids Research*** 53(4), 2025, gkaf098.</span>
 
 ## Mapping of functional genomic variants in human disease risk
 
