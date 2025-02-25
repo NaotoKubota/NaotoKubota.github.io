@@ -7,17 +7,23 @@ permalink: /publications/
 classes: wide
 ---
 
+1. [Shiba: a versatile computational method for systematic identification of differential RNA splicing across platforms](https://academic.oup.com/nar/article/53/4/gkaf098/8042001)<br>
+**Naoto Kubota**, Liang Chen, Sika Zheng.<br>
+_**Nucleic Acids Research**_ 53(4), 2025, gkaf098.
+
+	* We developed a new computational method, **Shiba**, for identifying differential RNA splicing events across multiple platforms such as bulk and single-cell RNA-seq.
+
+	![Fig_Kubota2025_1](/assets/images/Fig_Kubota2025_1.png){: width="100%"}
+
+	<p></p>
+
 1. [Long live the RNAs: The guardians of neuronal longevity?](https://www.sciencedirect.com/science/article/pii/S1097276524004386)<br>
 Lin Lin, **Naoto Kubota**, Nanaka Kaneshiro, Sika Zheng.<br>
-_**Mol. Cell**_ 84(11), 2014-2016, 2024
+_**Mol. Cell**_ 84(11), 2014-2016, 2024.
 
 1. [Shiba: A unified computational method for robust identification of differential RNA splicing across platforms](https://www.biorxiv.org/content/10.1101/2024.05.30.596331v1)<br>
 **Naoto Kubota**, Liang Chen, Sika Zheng.<br>
 _**bioRxiv**_ 2024.05.30.596331; doi: https://doi.org/10.1101/2024.05.30.596331
-
-	* We developed a new computational method, **Shiba**, for identifying differential RNA splicing events across multiple platforms, such as bulk and single-cell RNA-seq.
-
-	<p></p>
 
 1. [Epistatic interactions between NMD and TRP53 control progenitor cell maintenance and brain size](https://www.sciencedirect.com/science/article/pii/S0896627324002447)<br>
 Lin Lin, Jingrong Zhao, **Naoto Kubota**, Zhelin Li, Yi-Li Lam, Lauren P. Nguyen, Lu Yang, Sheela P. Pokharel, Steven M. Blue, Brian A. Yee, Renee Chen, Gene W. Yeo, Chun-Wei Chen, Liang Chen, Sika Zheng<br>
@@ -25,7 +31,7 @@ _**Neuron**_ 2024. https://doi.org/10.1016/j.neuron.2024.04.006
 
 1. [Diurnal changes in bacterial settlement on the Peyer’s patch and surrounding mucosa in the rat ileum and its effect against the intestinal immune system](https://link.springer.com/article/10.1007/s00441-023-03772-8)<br>
 Youhei Mantani, Nanami Sakata, **Naoto Kubota**, Asaka Shimada, Satoki Nakanishi, Toshifumi Yokoyama, Nobuhiko Hoshi<br>
-_**Cell Tissue Res**_ 393, 83–95, 2023.
+_**Cell Tissue Res.**_ 393, 83–95, 2023.
 
 1. [Mapping of promoter usage QTL using RNA-seq data reveals their contributions to complex traits](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010436)<br>
 **Naoto Kubota**, Mikita Suyama<br>

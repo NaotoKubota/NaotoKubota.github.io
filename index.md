@@ -23,9 +23,11 @@ classes: wide
 
 ## My latest publication
 
-[Shiba: A unified computational method for robust identification of differential RNA splicing across platforms](https://www.biorxiv.org/content/10.1101/2024.05.30.596331v1)<br>
+[Shiba: a versatile computational method for systematic identification of differential RNA splicing across platforms](https://academic.oup.com/nar/article/53/4/gkaf098/8042001)<br>
 **Naoto Kubota**, Liang Chen, Sika Zheng.<br>
-_**bioRxiv**_ 2024.05.30.596331; doi: https://doi.org/10.1101/2024.05.30.596331
+_**Nucleic Acids Research**_ 53(4), 2025, gkaf098.
+
+![Fig_Kubota2025_1](/assets/images/Fig_Kubota2025_1.png){: width="100%"}
 
 ## Favorite bands and singers
 
