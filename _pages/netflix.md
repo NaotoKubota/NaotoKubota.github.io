@@ -19,13 +19,18 @@ classes: narrow
 
 ---
 
+## 青春18×2 君へと続く道
+
+<iframe src="https://www.youtube.com/embed/K8vBWQayWPc" width="560" height="315" frameborder="0"> </iframe>
+
+---
+
 ## 鑑賞済みリスト（途中まで観たものも含む）
 
 - ホットスポット
 - SPEC～警視庁公安部公安第五課 未詳事件特別対策係事件簿～
 - ガリレオ
 - 脱出おひとり島
-- 青春18×2 君へと続く道
 - ミックステープ
 - 阿修羅のごとく
 - イカゲーム
@@ -69,7 +74,6 @@ classes: narrow
 - First Love 初恋
 - プレイヤーズ
 - アイリッシュマン
-- スタートアップ
 - ヒップタッチの女王
 - クレイジークルーズ
 - 神業グルメ
