@@ -38,7 +38,7 @@ Lin Lin, **Naoto Kubota**, Nanaka Kaneshiro, Sika Zheng.<br>
 _**Mol. Cell**_ 84(11), 2014-2016, 2024.
 
 1. [Epistatic interactions between NMD and TRP53 control progenitor cell maintenance and brain size](https://www.sciencedirect.com/science/article/pii/S0896627324002447)<br>
-Lin Lin, Jingrong Zhao, **Naoto Kubota**, Zhelin Li, Yi-Li Lam, Lauren P. Nguyen, Lu Yang, Sheela P. Pokharel, Steven M. Blue, Brian A. Yee, Renee Chen, Gene W. Yeo, Chun-Wei Chen, Liang Chen, Sika Zheng<br>
+Lin Lin<sup>#</sup>, Jingrong Zhao<sup>#</sup>, **Naoto Kubota**, Zhelin Li, Yi-Li Lam, Lauren P. Nguyen, Lu Yang, Sheela P. Pokharel, Steven M. Blue, Brian A. Yee, Renee Chen, Gene W. Yeo, Chun-Wei Chen, Liang Chen, Sika Zheng. (<sup>#</sup>Equal contribution)<br>
 _**Neuron**_ 2024. https://doi.org/10.1016/j.neuron.2024.04.006
 
 1. [Diurnal changes in bacterial settlement on the Peyer’s patch and surrounding mucosa in the rat ileum and its effect against the intestinal immune system](https://link.springer.com/article/10.1007/s00441-023-03772-8)<br>
