@@ -17,11 +17,11 @@ _**Under submission**_
 
 1. ???<br>
 XXX, **Naoto Kubota**, XXX, XXX, XXX, XXX, XXX.<br>
-_**Under revison**_
+_**Under revision**_
 
 1. ???<br>
 XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, **Naoto Kubota**, XXX, XXX, XXX, XXX.<br>
-_**Under revison**_
+_**Under revision**_
 
 1. [Shiba: a versatile computational method for systematic identification of differential RNA splicing across platforms](https://academic.oup.com/nar/article/53/4/gkaf098/8042001)<br>
 **Naoto Kubota**, Liang Chen, Sika Zheng.<br>
