@@ -14,7 +14,7 @@ classes: wide
 ## 略歴
 
 * 2022年5月-現在 カリフォルニア大学リバーサイド校 博士研究員
-	
+
 	* PI：[Sika Zheng](https://profiles.ucr.edu/app/home/profile/sikaz) 博士
 
 <p></p>
@@ -52,7 +52,7 @@ classes: wide
 
 ## 受賞歴等
 
-* 2022年5月-2023年4月 上原記念生命科学財団 海外留学助成 ポストドクトラルフェローシップ 採択 
+* 2022年5月-2023年4月 上原記念生命科学財団 海外留学助成 ポストドクトラルフェローシップ 採択
 
 	* 「神経変性疾患におけるスプライシング因子制御異常の大規模情報解析」
 
@@ -79,7 +79,7 @@ classes: wide
 
 ## 連絡先
 
-メールかTwitterでお気軽にご連絡ください。Twitterの方が反応は早いです（たぶん）。
+メールかXでお気軽にご連絡ください。Xの方が反応は早いです（たぶん）。
 
 * メール：`naotok [at] ucr.edu`
-* Twitter：[@kubotter_123](https://twitter.com/kubotter_123) もしくは [@naoto_kubota](https://twitter.com/naoto_kubota)
+* X：[@kubotter_123](https://X.com/kubotter_123) もしくは [@naoto_kubota](https://X.com/naoto_kubota)

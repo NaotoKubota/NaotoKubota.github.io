@@ -12,7 +12,7 @@ XXX<sup>#</sup>, **Naoto Kubota**<sup>#</sup>, XXX, XXX, XXX. (<sup>#</sup>Equal
 _**Under revision**_
 
 1. ???<br>
-XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, **Naoto Kubota**, XXX, XXX, XXX, XXX.<br>
+XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, **Naoto Kubota**, XXX, XXX, XXX, XXX.<br>
 _**Under revision**_
 
 1. Colonizing bacteria around aggregated lymphoid tissue of the rat ascending colon change diurnally and affect the host local transcriptome<br>
