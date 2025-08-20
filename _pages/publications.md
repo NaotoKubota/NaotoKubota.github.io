@@ -21,11 +21,11 @@ _**Cell Tissue Res.**_ Accepted.
 
 1. [PTBP1 Depletion in Mature Astrocytes Reveals Distinct Splicing Alterations Without Neuronal Features](https://doi.org/10.7554/eLife.107683.1)<br>
 Min Zhang<sup>#</sup>, **Naoto Kubota**<sup>#</sup>, David Nikom<sup>#</sup>, Ayden Arient, Sika Zheng. (<sup>#</sup>Equal contribution)<br>
-_**eLife**_ 14:RP107683
+_**eLife**_ 14:RP107683, 2025.
 
 1. [Shiba: a versatile computational method for systematic identification of differential RNA splicing across platforms](https://academic.oup.com/nar/article/53/4/gkaf098/8042001)<br>
 **Naoto Kubota**, Liang Chen, Sika Zheng.<br>
-_**Nucleic Acids Research**_ 53(4), 2025, gkaf098.
+_**Nucleic Acids Research**_ 53(4), gkaf098, 2025.
 
 	* We developed a new computational method, **Shiba**, for identifying differential RNA splicing events across multiple platforms such as bulk and single-cell RNA-seq.
 
@@ -39,7 +39,7 @@ _**Mol. Cell**_ 84(11), 2014-2016, 2024.
 
 1. [Epistatic interactions between NMD and TRP53 control progenitor cell maintenance and brain size](https://www.sciencedirect.com/science/article/pii/S0896627324002447)<br>
 Lin Lin<sup>#</sup>, Jingrong Zhao<sup>#</sup>, **Naoto Kubota**, Zhelin Li, Yi-Li Lam, Lauren P. Nguyen, Lu Yang, Sheela P. Pokharel, Steven M. Blue, Brian A. Yee, Renee Chen, Gene W. Yeo, Chun-Wei Chen, Liang Chen, Sika Zheng. (<sup>#</sup>Equal contribution)<br>
-_**Neuron**_ 2024. https://doi.org/10.1016/j.neuron.2024.04.006
+_**Neuron**_ 112(13), 2157–2176.e12. 2024.
 
 1. [Diurnal changes in bacterial settlement on the Peyer’s patch and surrounding mucosa in the rat ileum and its effect against the intestinal immune system](https://link.springer.com/article/10.1007/s00441-023-03772-8)<br>
 Youhei Mantani, Nanami Sakata, **Naoto Kubota**, Asaka Shimada, Satoki Nakanishi, Toshifumi Yokoyama, Nobuhiko Hoshi<br>
