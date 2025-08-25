@@ -1,5 +1,60 @@
 <!-- start custom head snippets -->
 
+<!-- Google Fonts preconnect for better performance -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<!-- Modern viewport meta tag -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+
+<!-- Theme color for mobile browsers -->
+<meta name="theme-color" content="#6b73ff">
+<meta name="msapplication-navbutton-color" content="#6b73ff">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+<!-- Additional meta tags for better SEO -->
+<meta name="author" content="Naoto Kubota">
+<meta name="description" content="Computational biologist specializing in genomics, RNA splicing, and neuronal development. Postdoc at UC Riverside.">
+<meta name="keywords" content="computational biology, genomics, RNA splicing, bioinformatics, Naoto Kubota">
+
+<!-- Open Graph meta tags -->
+<meta property="og:title" content="Naoto Kubota - Computational Biologist">
+<meta property="og:description" content="Computational biologist specializing in genomics, RNA splicing, and neuronal development. Postdoc at UC Riverside.">
+<meta property="og:type" content="website">
+<meta property="og:image" content="/assets/images/NaotoKubota.png">
+
+<!-- Twitter Card meta tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@naoto_kubota">
+<meta name="twitter:title" content="Naoto Kubota - Computational Biologist">
+<meta name="twitter:description" content="Computational biologist specializing in genomics, RNA splicing, and neuronal development.">
+<meta name="twitter:image" content="/assets/images/NaotoKubota.png">
+
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- Custom CSS variables for consistent theming -->
+<style>
+  :root {
+    --font-display: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    --font-mono: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace;
+    --soft-purple: #6b73ff;
+    --soft-blue: #5ba7f7;
+    --soft-gradient: linear-gradient(135deg, var(--soft-purple), var(--soft-blue));
+  }
+  
+  /* Enhanced smooth scrolling */
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  /* Reduced motion for accessibility */
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+</style>
 
 <!-- end custom head snippets -->
