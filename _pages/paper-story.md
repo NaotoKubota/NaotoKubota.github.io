@@ -11,7 +11,7 @@ classes: wide
 
 ### [Kubota et al., _Nucleic Acids Res._, 2025](https://academic.oup.com/nar/article/53/4/gkaf098/8042001)
 
-留学先である [Sika Zheng Lab](https://zhenglab.ucr.edu/) での一本目の筆頭著者論文。新しいRNAスプライシング解析のためのツールである [Shiba](https://github.com/Sika-Zheng-Lab/Shiba) を開発し、既存ツールとのベンチマーキングを行った。留学が始まった2022年5月、PIであるDr. Sika Zheng（以下 Sika）からの最初の要求は「研究室で取得したRNA-seqデータ解析ためのパイプラインを作ってほしい」というものであった。Sika自身はWet bioligistであり、
+留学先である [Sika Zheng Lab](https://zhenglab.ucr.edu/) での一本目の筆頭著者論文。新しいRNAスプライシング解析のためのツールである [Shiba](https://github.com/Sika-Zheng-Lab/Shiba) を開発し、既存ツールとのベンチマーキングを行った。留学が始まった2022年5月、PIであるDr. Sika Zheng（以下 Sika）からの最初の要求は「研究室で取得したRNA-seqデータ解析ためのパイプラインを作ってほしい」というものであった。Sika自身はWet bioligistであり、（執筆中）
 
 ### [Kubota and Suyama, _PLoS Comp. Biol._, 2022](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010436)
 
