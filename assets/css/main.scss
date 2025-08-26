@@ -140,6 +140,9 @@ img[src*="shields.io"] {
   background: linear-gradient(white, white) padding-box,
               linear-gradient(135deg, var(--soft-purple), var(--soft-blue)) border-box;
   transition: all 0.3s ease;
+  max-width: 160px !important;
+  width: 160px;
+  height: 160px;
   
   &:hover {
     transform: scale(1.05);
