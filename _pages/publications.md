@@ -8,18 +8,18 @@ classes: wide
 ---
 
 1. ???<br>
-XXX<sup>#</sup>, **Naoto Kubota**<sup>#</sup>, XXX, XXX, XXX. (<sup>#</sup>Equal contribution)<br>
-_**Under revision**_
+XXX<sup>#</sup>, **Naoto Kubota**<sup>#</sup>, XXX, XXX, XXX, XXX. (<sup>#</sup>Equal contribution)<br>
+_**Under review**_
 
 1. ???<br>
 XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, **Naoto Kubota**, XXX, XXX, XXX, XXX.<br>
-_**Under revision**_
+_**Under review**_
 
 1. Colonizing bacteria around aggregated lymphoid tissue of the rat ascending colon change diurnally and affect the host local transcriptome<br>
 Asaka Shimada, **Naoto Kubota**, Sika Zheng, Rinako Morishita, Toshifumi Yokoyama, Nobuhiko Hoshi, Youhei Mantani.<br>
 _**Cell Tissue Res.**_ 402, 97–108, 2025.
 
-1. [PTBP1 Depletion in Mature Astrocytes Reveals Distinct Splicing Alterations Without Neuronal Features](https://doi.org/10.7554/eLife.107683.1)<br>
+1. [PTBP1 depletion in mature astrocytes reveals distinct splicing alterations without neuronal features](https://doi.org/10.7554/eLife.107683)<br>
 Min Zhang<sup>#</sup>, **Naoto Kubota**<sup>#</sup>, David Nikom<sup>#</sup>, Ayden Arient, Sika Zheng. (<sup>#</sup>Equal contribution)<br>
 _**eLife**_ 14:RP107683, 2025.
 
