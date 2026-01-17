@@ -11,7 +11,9 @@ classes: wide
 
 ### [Kubota et al., _Nucleic Acids Res._, 2025](https://academic.oup.com/nar/article/53/4/gkaf098/8042001)
 
-留学先である [Sika Zheng Lab](https://zhenglab.ucr.edu/) での一本目の筆頭著者論文。新しいRNAスプライシング解析のためのツールである [Shiba](https://github.com/Sika-Zheng-Lab/Shiba) を開発し、既存ツールとのベンチマーキングを行った。留学が始まった2022年5月、PIであるDr. Sika Zheng（以下 Sika）からの最初の要求は「研究室で取得したRNA-seqデータ解析ためのパイプラインを作ってほしい」というものであった。Sika自身はWet bioligistであり、（執筆中）
+留学先である [Sika Zheng Lab](https://zhenglab.ucr.edu/) での一本目の筆頭著者論文。新しいRNAスプライシング解析のためのツールである [Shiba](https://github.com/Sika-Zheng-Lab/Shiba) を開発し、既存ツールとのベンチマーキングを行った。
+
+留学が始まった2022年5月、PIであるDr. Sika Zheng からの最初の要求は「研究室で取得したRNA-seqデータ解析ためのパイプラインを作ってほしい」というものであった。Sika自身はWet bioligistであり、これまでデータ解析は共同研究者（USCのProfessorであり彼の妻、[Liang Chen](https://lianglab.usc.edu/people.html)）に依頼していたが、既存ツール（とくに[rMATS](https://rnaseq-mats.sourceforge.io/)）のパフォーマンスに不満を持っていたようだった。自分の貢献はLiang が [Zhang et al., 2019](https://www.cell.com/neuron/fulltext/S0896-6273(19)30049-2) で用いたFisherの正確確率検定に基づく手法（実はこのアプローチ自体は新しくない、RNA-seq黎明期にスプライシング解析によく用いられていた）の拡張、パッケージ化、ベンチマークおよび実データへの適用、といったところ。NAR に投稿し一回のリバイズを経てアクセプト。ちなみに Shiba という名前に特に由来はない。開発当初に適当につけた仮の名前を変更するタイミングを逃しただけである。でもお気に入り。
 
 ### [Kubota and Suyama, _PLoS Comp. Biol._, 2022](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010436)
 
