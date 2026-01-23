@@ -15,7 +15,7 @@ _**Under review**_
 XXX<sup>#</sup>, **Naoto Kubota**<sup>#</sup>, XXX, XXX, XXX, XXX. (<sup>#</sup>Equal contribution)<br>
 _**Accepted**_
 
-1. Colonizing bacteria around aggregated lymphoid tissue of the rat ascending colon change diurnally and affect the host local transcriptome<br>
+1. [Colonizing bacteria around aggregated lymphoid tissue of the rat ascending colon change diurnally and affect the host local transcriptome](https://link.springer.com/article/10.1007/s00441-025-04000-1)<br>
 Asaka Shimada, **Naoto Kubota**, Sika Zheng, Rinako Morishita, Toshifumi Yokoyama, Nobuhiko Hoshi, Youhei Mantani.<br>
 _**Cell Tissue Res.**_ 402, 97–108, 2025.
 
