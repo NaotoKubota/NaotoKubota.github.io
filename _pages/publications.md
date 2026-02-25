@@ -11,9 +11,9 @@ classes: wide
 XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, **Naoto Kubota**, XXX, XXX, XXX, XXX.<br>
 _**Under review**_
 
-1. ???<br>
-XXX<sup>#</sup>, **Naoto Kubota**<sup>#</sup>, XXX, XXX, XXX, XXX. (<sup>#</sup>Equal contribution)<br>
-_**Accepted**_
+1. [Nonsense-mediated mRNA decay orchestrates neuronal migration and cortical lamination while modulating Reelin and ciliary gene regulatory networks](https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00105-1)<br>
+Lin Lin<sup>#</sup>, **Naoto Kubota**<sup>#</sup>, Yi-Li Lam, Michelle Mingxue Song, Min Zhang, Sika Zheng. (<sup>#</sup>Equal contribution)<br>
+_**Cell reports**_ 45(3), 117027, 2026.
 
 1. [Colonizing bacteria around aggregated lymphoid tissue of the rat ascending colon change diurnally and affect the host local transcriptome](https://link.springer.com/article/10.1007/s00441-025-04000-1)<br>
 Asaka Shimada, **Naoto Kubota**, Sika Zheng, Rinako Morishita, Toshifumi Yokoyama, Nobuhiko Hoshi, Youhei Mantani.<br>
