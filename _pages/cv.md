@@ -4,10 +4,10 @@ layout: single
 author_profile: True
 read_time: False
 permalink: /cv/
-classes: narrow
+classes: wide
 ---
 
-[Here is my full CV.](https://docs.google.com/document/d/1QIyU3xO2-89tHPWl4V3ZWFRk81-_bLY2HWN_9V-Zgrw/edit?usp=sharing)
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSRv6jaENPCxWz3u6YJXG9fqw9ueggCV_D9ljDNiy4oYap92S2gzk-8gonks7hIeJHct8rj3KF6ZGnh/pub?embedded=true" style="width:100%; height:800px; border:none;"></iframe>
 
 ## Training
 
