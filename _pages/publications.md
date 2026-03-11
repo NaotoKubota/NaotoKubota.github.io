@@ -7,13 +7,20 @@ permalink: /publications/
 classes: wide
 ---
 
+## Under review
+
 1. ???<br>
 XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, **Naoto Kubota**, XXX, XXX, XXX, XXX.<br>
-_**Under review**_
+
+## Published
 
 1. [Nonsense-mediated mRNA decay orchestrates neuronal migration and cortical lamination while modulating Reelin and ciliary gene regulatory networks](https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00105-1)<br>
 Lin Lin<sup>#</sup>, **Naoto Kubota**<sup>#</sup>, Yi-Li Lam, Michelle Mingxue Song, Min Zhang, Sika Zheng. (<sup>#</sup>Equal contribution)<br>
 _**Cell reports**_ 45(3), 117027, 2026.
+
+	* We have demonstrated that **loss of UPF2**, a core factor of nonsense-mediated mRNA decay (NMD) machinery, **delays neuronal migration** and disrupts cortical lamination. My transcriptomic analyses revealed that NMD regulates Reelin signaling, microtubule dynamics, and ciliary gene networks.
+
+	![Fig_Lin2026_1](https://www.cell.com/cms/10.1016/j.celrep.2026.117027/asset/c579d4d6-6f5f-4f3a-854c-0075203c74f8/main.assets/fx1_lrg.jpg){: width="50%" .align-center}
 
 1. [Colonizing bacteria around aggregated lymphoid tissue of the rat ascending colon change diurnally and affect the host local transcriptome](https://link.springer.com/article/10.1007/s00441-025-04000-1)<br>
 Asaka Shimada, **Naoto Kubota**, Sika Zheng, Rinako Morishita, Toshifumi Yokoyama, Nobuhiko Hoshi, Youhei Mantani.<br>
@@ -22,6 +29,8 @@ _**Cell Tissue Res.**_ 402, 97–108, 2025.
 1. [PTBP1 depletion in mature astrocytes reveals distinct splicing alterations without neuronal features](https://doi.org/10.7554/eLife.107683)<br>
 Min Zhang<sup>#</sup>, **Naoto Kubota**<sup>#</sup>, David Nikom<sup>#</sup>, Ayden Arient, Sika Zheng. (<sup>#</sup>Equal contribution)<br>
 _**eLife**_ 14:RP107683, 2025.
+
+	* We investigated the effects of PTBP1 depletion in mature astrocytes and found that it induces distinct splicing alterations without inducing neuronal features, supporting a model that **PTBP1 may not be a key regulator of astrocyte-to-neuron conversion.**
 
 1. [Shiba: a versatile computational method for systematic identification of differential RNA splicing across platforms](https://academic.oup.com/nar/article/53/4/gkaf098/8042001)<br>
 **Naoto Kubota**, Liang Chen, Sika Zheng.<br>
