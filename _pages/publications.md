@@ -15,10 +15,11 @@ classes: wide
 1. ???<br>
 XXX, XXX, **Naoto Kubota**, XXX, XXX, XXX, XXX.<br>
 
-1. ???<br>
-XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX, **Naoto Kubota**, XXX, XXX, XXX, XXX.<br>
-
 ## Published
+
+1. [Development of a robust method to derive human trophoblast stem cells from late-gestation placentas and its application to preeclampsia](https://www.pnas.org/doi/10.1073/pnas.2537884123)<br>
+Akira Oike<sup>#</sup>, Eri H. Kobayashi<sup>#</sup>, Yasuhiro Yamamoto<sup>#</sup>, Hirotaka Hamada, Sota Takahashi, Takanori Shimizu, Akane Kitamura, Asato Sekiya, Norio Kobayashi, Shun Shibata, Shun Endo, Tetsuya Sato, **Naoto Kubota**, Chie Kikutake, Mikita Suyama, Takahiro Arima, Hiroaki Okae. (<sup>#</sup>Equal contribution)<br>
+_**Proc. Natl. Acad. Sci. U. S. A.**_ 123(24), e2537884123, 2026.
 
 1. [Nonsense-mediated mRNA decay orchestrates neuronal migration and cortical lamination while modulating Reelin and ciliary gene regulatory networks](https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00105-1)<br>
 Lin Lin<sup>#</sup>, **Naoto Kubota**<sup>#</sup>, Yi-Li Lam, Michelle Mingxue Song, Min Zhang, Sika Zheng. (<sup>#</sup>Equal contribution)<br>
