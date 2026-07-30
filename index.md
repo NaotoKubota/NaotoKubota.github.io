@@ -12,7 +12,7 @@ classes: wide
 
 I'm a **computational biologist** passionate about unraveling the complexities of life through data science and advanced computational methods. Currently, I'm working as a postdoc at [Dr. Sika Zheng Lab](https://zhenglab.ucr.edu/index.htm) at the University of California, Riverside.
 
-My work bridges the gap between biology and technology, using cutting-edge computational tools to understand fundamental biological processes. [Download my full CV here](https://docs.google.com/document/d/1QIyU3xO2-89tHPWl4V3ZWFRk81-_bLY2HWN_9V-Zgrw/edit?usp=sharing) to learn more about my journey.
+My work bridges the gap between biology and technology, using cutting-edge computational tools to understand fundamental biological processes. [Download my full CV here](https://drive.google.com/file/d/1LAtYUXyU6u4iXKBi2alIyXXxpKZUJ2oG/view?usp=sharing) to learn more about my journey.
 
 ## 🔬 Research Focus
 

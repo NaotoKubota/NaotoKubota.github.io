@@ -7,7 +7,7 @@ permalink: /cv/
 classes: wide
 ---
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSRv6jaENPCxWz3u6YJXG9fqw9ueggCV_D9ljDNiy4oYap92S2gzk-8gonks7hIeJHct8rj3KF6ZGnh/pub?embedded=true" style="width:100%; height:800px; border:none;"></iframe>
+<iframe src="https://drive.google.com/file/d/1LAtYUXyU6u4iXKBi2alIyXXxpKZUJ2oG/preview" width="100%" height="600px"></iframe>
 
 ## Training
 
