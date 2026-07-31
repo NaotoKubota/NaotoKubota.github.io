@@ -42,6 +42,10 @@ PI：[須山 幹太](https://www.bioreg.kyushu-u.ac.jp/labo/bioinfo/) 教授
 
 ## 受賞歴・研究費
 
+**UC President’s Lindau Nobel Laureate Meeting Fellow**  
+2026年6月 - 2026年7月  
+[第75回リンダウノーベル賞受賞者会議（ドイツ）](https://mediatheque.lindau-nobel.org/meetings/2026)に参加するための奨学金
+
 **上原記念生命科学財団 海外留学助成 ポストドクトラルフェローシップ**  
 2022年5月 - 2023年4月  
 「神経変性疾患におけるスプライシング因子制御異常の大規模情報解析」
